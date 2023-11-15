@@ -1,12 +1,12 @@
 # Image-Converter-Script
 Simple script written in python for converting image types, while still maintaining exif information.
 
-##**Requirements**
+## **Requirements**
 -Python 3.x
 -PIL (Python Imaging Library)
 -Pillow-Heif 
 
-##**Instructions**
+## **Instructions**
 1.Clone this repository.
 1.Place `ImageConverter.py` in the folder with the images.
 1.Run the script:
