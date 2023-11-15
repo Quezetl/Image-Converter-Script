@@ -2,9 +2,9 @@
 Simple script written in python for converting image types, while still maintaining exif information.
 
 ## **Requirements**
--Python 3.x  
--PIL (Python Imaging Library)  
--Pillow-Heif   
+- Python 3.x  
+- PIL (Python Imaging Library)  
+- Pillow-Heif   
 
 ## **Instructions**
 1. Clone this repository.
